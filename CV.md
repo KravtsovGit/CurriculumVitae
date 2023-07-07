@@ -39,7 +39,7 @@ Soon
 
 ***
 
-## CODE EXAMPLE
+## CODE EXAMPLES
 
 Soon
 
@@ -55,6 +55,7 @@ Soon
 
 * Russian: Native speaker
 * English: B1 (Intermediate)
-* ![English Level Picture](https://i.imgur.com/sIZHPBT.png)
+
+![English Level Picture](https://i.imgur.com/sIZHPBT.png)
 
 ***
