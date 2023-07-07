@@ -4,7 +4,7 @@
 
 ## PERSONAL INFO
 
-* Age: 18 (eighteen)
+* Age: 18 (Eighteen)
 * Address: Belarus, Mogilev
 
 ***
@@ -55,6 +55,6 @@ Soon
 
 * Russian: Native speaker
 * English: B1 (Intermediate)
-![English Level Picture](https://i.imgur.com/sIZHPBT.png)
+* ![English Level Picture](https://i.imgur.com/sIZHPBT.png)
 
 ***
