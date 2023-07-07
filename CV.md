@@ -37,6 +37,14 @@ Soon
   * HTML
   * CSS
 
+## SOFT SKILLS
+
+* Communication
+* Creativity
+* Adaptability
+* Teamwork
+* Organization
+
 ***
 
 ## CODE EXAMPLES
